@@ -1,11 +1,5 @@
 # BCS Mining Operations
 
-![Monorepo](https://img.shields.io/badge/repo-monorepo-blue)
-![Node.js](https://img.shields.io/badge/node.js-18%2B-green)
-![Electron](https://img.shields.io/badge/electron-desktop-blueviolet)
-![Offline--First](https://img.shields.io/badge/offline--first-yes-orange)
-![Client--Only](https://img.shields.io/badge/client--only-workflows-lightgrey)
-
 A collection of focused tools that streamline day-to-day operations for BCS. Each folder is a self-contained project with its own README, build/run instructions, and clear scope. Collectively they demonstrate production-minded scheduling, client-only workflows, offline-first UX, and integrations with Foreman/BigQuery.
 
 ---
