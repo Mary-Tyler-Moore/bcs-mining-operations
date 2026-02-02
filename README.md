@@ -1,6 +1,6 @@
-# BCS Projects
+# BCS Mining Operations
 
-A small collection of focused tools that streamline day-to-day operations for BCS. Each folder is a self-contained project with its own README, build/run instructions, and clear scope. Collectively they demonstrate production-minded scheduling, client-only workflows, offline-first UX, and integrations with Foreman/BigQuery.
+A collection of focused tools that streamline day-to-day operations for BCS. Each folder is a self-contained project with its own README, build/run instructions, and clear scope. Collectively they demonstrate production-minded scheduling, client-only workflows, offline-first UX, and integrations with Foreman/BigQuery.
 
 ---
 
